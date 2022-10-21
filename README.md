@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m @MartinKithinji
 - :zap: I love technology, programming, data, and books
 - 🌱 I’m addicted to learning and growing every day
-- :earth_africa: I am currently enrolled on the ALX Software Engineering.
+- :earth_africa: I am currently enrolled on the ALX Software Engineer program.
 - 📫 How to find me:
   - :office: [LinkedIn](https://www.linkedin.com/in/martin-kithinji-mwirigi)
   
